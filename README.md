@@ -1,2 +1,2 @@
 # Sql-Data-Warehouse-proyect
-Building a modern data warehouse with Sql server, including ETL processes, data modelling and analytics
+Welcome! This project was developed as an independent initiative to gain hands-on experience across the full lifecycle of a data warehouse architecture. It includes data ingestion, transformation, modeling, and analytical processing. The warehouse was designed to support insight-driven analysis through a structured and scalable solution. This project strengthens and expands my portfolio by demonstrating practical skills in end-to-end data engineering and analytics.
