@@ -4,9 +4,7 @@ Welcome! This project was developed as an independent initiative to gain hands-o
 <img width="1139" height="667" alt="ARCHITECTURE PR1 drawio (1)" src="https://github.com/user-attachments/assets/ca137c2f-b3b9-4d52-8b3a-2368046e5ee4" />
 
 1) Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-
 2) Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-
 3) Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 # Project Overview
